@@ -1,0 +1,92 @@
+[
+    {
+        "name": "MongoDB",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/mongodb.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/mongodb",
+        "domain": "https://www.mongodb.com/"
+    },
+    {
+        "name": "Bill.com",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/bill.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/bill-com",
+        "domain": "https://www.bill.com"
+    },
+    {
+        "name": "Engagio",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/engagio.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/engagio",
+        "domain": "https://www.engagio.com/"
+    },
+    {
+        "name": "Bugcrowd",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/bugcrowd.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/bugcrowd",
+        "domain": "https://www.bugcrowd.com/"
+    },
+    {
+        "name": "Klaviyo",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/klaviyo.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/klaviyo",
+        "domain": "https://www.klaviyo.com/"
+    },
+    {
+        "name": "MetTel",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/mettel.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/mettel",
+        "domain": "https://www.mettel.net"
+    },
+    {
+        "name": "Housecall Pro",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/housecall-pro.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/housecall",
+        "domain": "https://www.housecallpro.com/"
+    },
+    {
+        "name": "EverString",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/everstring.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/everstring",
+        "domain": "https://www.everstring.com/"
+    },
+    {
+        "name": "Dr. Dover",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/dr-dover-2.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/dr-dover",
+        "domain": "https://profiles.utdallas.edu/howard.dover"
+    },
+    {
+        "name": "InsightSquared",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/insightsquared.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/insight-squared",
+        "domain": "https://www.insightsquared.com/"
+    },
+    {
+        "name": "Procore",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/procore.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/procore",
+        "domain": "https://www.procore.com/"
+    },
+    {
+        "name": "Growbots",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/growbots.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/growbots",
+        "domain": "https://www.growbots.com/"
+    },
+    {
+        "name": "Guru",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/guru.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/guru",
+        "domain": "https://www.getguru.com/"
+    },
+    {
+        "name": "MongoDB",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/mongodb.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/mongodb-2",
+        "domain": "https://www.mongodb.com/"
+    },
+    {
+        "name": "Zoom",
+        "logoUrl": "https://d1zp01vk4nyewr.cloudfront.net/images/logos/color/zoom.svg",
+        "caseStudy": "https://www.chorus.ai/case-studies/zoom",
+        "domain": "https://zoom.us"
+    }
+]
